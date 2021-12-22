@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE php_check_syntax>
 <html>
 <body>
 
