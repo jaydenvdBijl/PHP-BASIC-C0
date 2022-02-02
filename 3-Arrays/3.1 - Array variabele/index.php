@@ -1,10 +1,9 @@
-
 <?php
-    $myMovies = ["Spiderman", "Batman", "The Joker"];
-?>
 
-<?php
-    echo $myMovies[0];
-    echo $myMovies[1];
-    echo $myMovies[2];
+$myMovies = ["Spiderman", "Batman", "Venom"];
+echo $myMovies[0];
+echo "</br>";
+echo $myMovies[1];
+echo "</br>";
+echo $myMovies[2]; 
 ?>
