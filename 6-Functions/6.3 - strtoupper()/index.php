@@ -1,4 +1,8 @@
 <?php
-    function telAlleKarakters();
-    $lengteRegel strln("Mijn blauwe auto is een mooie snelle wagen");
+function telAlleWoorden(){
+    $mooieAuto = "Mijn blauwe auto is een mooie snelle wagen";
+    echo strlen($mooieAuto);
+}
+
+telAlleWoorden();
 ?>
