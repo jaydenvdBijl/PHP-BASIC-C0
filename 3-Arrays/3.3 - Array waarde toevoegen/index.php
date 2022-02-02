@@ -1,7 +1,6 @@
 <?php
-     $coders =  ['torvalds', 'gates', 'wozniak'];
-     array_push($coders, 'bos');
+$myHeroes = ['Spiderman'];
+$myHeroes[1] = 'Iron man';
+array_push ($myHeroes,'Thor');
+print_r ($myHeroes); 
 ?>
-
-<?php
-    print_r( echo $coders[1];)
