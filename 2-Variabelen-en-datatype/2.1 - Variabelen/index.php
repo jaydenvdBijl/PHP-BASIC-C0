@@ -1,4 +1,4 @@
-<!DOCTYPE php_check_syntax>
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -8,4 +8,4 @@ echo $score;
 ?>
 
 </body>
-</html> 
+</html>
