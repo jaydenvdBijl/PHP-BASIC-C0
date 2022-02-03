@@ -11,9 +11,6 @@ echo $myDogNames[0];
 echo "</br>";
 echo "</br>";
 
-echo $myDogNames[2]= "Chihuahua";
+$myDogNames[2]= "Chihuahua";
 echo "</br>";
 echo $myDogNames[1];
-echo "</br>";
-echo $myDogNames[0];
-?>
