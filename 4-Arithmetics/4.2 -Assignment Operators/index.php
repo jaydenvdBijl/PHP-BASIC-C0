@@ -1,7 +1,10 @@
 <?php
-    $getal1 = 11; 
-    echo $getal1 +=
-    echo $getal1 -=
-    echo $getal1 *=
-    echo $getal1 /=
-?>
+$getal1= 100;
+
+echo $getal1 += 2;
+echo "</br>";
+echo $getal1 -= 2;
+echo "</br>";
+echo $getal1 *= 2;
+echo "</br>";
+echo $getal1 /= 2; 
