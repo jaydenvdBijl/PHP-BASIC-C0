@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <?php
     require 'includes/menu.php';
+    require 'includes/database.php'
 ?>
 <html lang="en">
 <head>
